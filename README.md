@@ -2,11 +2,9 @@
 
 Hi,
 
-Clone this repository. Answers for every question should be placed in separate directories, named the same as the task number. Hyperlink to your public clone of this repository, uploaded to any GIT platform, will be treated as an answer.
+Clone this repository. Answers for every question should be placed in separate directories, named the same as the task number. After resolving the tasks, please upload solutions to any GIT platform. Then send mail to michael.modzelewski@linetech.pl with link to the repository with the solutions.
 
 If you don’t know how to clone or you are not able to upload answers to (any) git-enabled platform, e.g. GitHub, GitLab. Then download the repository as a .zip file and send it back to us with answers, packed as .zip, to michal.modzelewski@linetech.pl
-
-**EDIT**: If you are not sure if you have correctly uploaded your solutions to the GIT platform (so that it is visible to the repository owner), please send an email with a link to your repository to michal.modzelewski@linetech.pl
 
 ## Task 1
 
